@@ -16,11 +16,13 @@ A comment in every programming language!
    - BrainFuck
    - C
    - Clojure
+   - COBOL
    - CoffeeScript
    - C++
    - C#
    - CSS
    - Dart 
+   - D
    - Erlang
    - Elixir
    - Fortran
