@@ -48,3 +48,7 @@ A comment in every programming language!
    - Swift
    - TypeScript 
    - Visual Basic
+   
+[Code of Conduct]: https://github.com/harshhh-dev/comment-of-code/blob/master/CODE_OF_CONDUCT.md
+[License]: https://github.com/harshhh-dev/comment-of-code/blob/master/LICENSE
+[Contributing]: https://github.com/harshhh-dev/comment-of-code/blob/master/CONTRIBUTING.md
